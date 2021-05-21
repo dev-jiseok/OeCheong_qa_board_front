@@ -1,4 +1,4 @@
-import PostMain from './page/post/postMain';
+import postMain from './page/post/postMain';
 
 function App() {
   return (

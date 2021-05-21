@@ -1,7 +1,7 @@
 import React from 'react';
-import PostList from './postList';
+import postList from './postList';
 
-const PostMain = props => {
+const postMain = props => {
   return (
     <>
       <postList />
@@ -9,4 +9,4 @@ const PostMain = props => {
   )
 }
 
-export default PostMain;
+export default postMain;
