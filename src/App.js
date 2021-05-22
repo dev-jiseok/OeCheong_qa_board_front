@@ -1,9 +1,9 @@
-import postMain from './page/post/postMain';
+import PostMain from './page/post/PostMain';
 
 function App() {
   return (
     <div className="App">
-      <postMain />
+      <PostMain />
     </div>
   );
 }

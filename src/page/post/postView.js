@@ -1,6 +1,6 @@
 import React from 'react';
 
-const postView = props => {
+const PostView = props => {
   return (
     <>
 
@@ -8,4 +8,4 @@ const postView = props => {
   )
 }
 
-export default postView;
+export default PostView;
